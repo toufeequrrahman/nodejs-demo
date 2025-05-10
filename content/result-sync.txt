@@ -1,0 +1,5 @@
+result:
+first.txt
+second.txtresult:
+first.txt
+second.txt
